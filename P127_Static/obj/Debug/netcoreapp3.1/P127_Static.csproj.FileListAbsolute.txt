@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\bin\Debug\netcoreapp3.1\P127_Static.exe
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\bin\Debug\netcoreapp3.1\P127_Static.deps.json
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\bin\Debug\netcoreapp3.1\P127_Static.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\bin\Debug\netcoreapp3.1\P127_Static.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\bin\Debug\netcoreapp3.1\P127_Static.dll
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\bin\Debug\netcoreapp3.1\P127_Static.pdb
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\obj\Debug\netcoreapp3.1\P127_Static.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\obj\Debug\netcoreapp3.1\P127_Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\obj\Debug\netcoreapp3.1\P127_Static.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\obj\Debug\netcoreapp3.1\P127_Static.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\obj\Debug\netcoreapp3.1\P127_Static.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\obj\Debug\netcoreapp3.1\P127_Static.dll
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\obj\Debug\netcoreapp3.1\P127_Static.pdb
+C:\Users\Lenovo\source\repos\P127_Static\P127_Static\obj\Debug\netcoreapp3.1\P127_Static.genruntimeconfig.cache
